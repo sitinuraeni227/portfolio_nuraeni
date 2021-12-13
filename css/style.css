@@ -182,7 +182,7 @@ section h3::after {
 }
 .l-skills .nilai {
 	height: 30px;
-	background-color:  #03fc17 ;
+	background-color:  #03fc17 !important  ;
 	display: inline-block;
 	color: #fff;
 	text-align: center;
